@@ -1,0 +1,12 @@
+Experimenting with gravity, ships, planets and lasers as part of a
+larger project.
+
+Ships flock after and attack weaker ones of different colours
+
+Ships have shields to protect from laser fire. Shelds get smaller when
+hit. No shield means certain death.
+
+Planets attract ships. Ships fly perpendicular to planets to avoid
+them, this results in a slingshot effect.
+
+Ships scale visually to show velocity.
