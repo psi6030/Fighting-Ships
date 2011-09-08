@@ -1,0 +1,27 @@
+body {
+    background: #000;
+}
+
+#view {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    width: 480px;
+    height: 480px;
+    cursor: grab;
+    background: transparent;
+    z-index: 1;
+}
+
+#fx {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    width: 480px;
+    height: 480px;
+    cursor: grab;
+    background: transparent;
+    z-index: 2;
+}
