@@ -1,7 +1,7 @@
 Experimenting with gravity, ships, planets and lasers as part of a
 larger project.
 
-Ships flock after and attack weaker ones of different colours
+Ships flock after and attack weaker ones of different colours.
 
 Ships have shields to protect from laser fire. Shelds get smaller when
 hit. No shield means certain death.
