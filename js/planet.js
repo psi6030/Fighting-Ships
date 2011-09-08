@@ -269,6 +269,8 @@ function System() {
 
   this.draw = function() {
 
+    // shold hold references to drawn objects and change attrs instead of
+    // doing this.
     if ( ! self.canvas ) { 
       self.canvas = Raphael( 'view', self.win_w, self.win_h );
     } else {
